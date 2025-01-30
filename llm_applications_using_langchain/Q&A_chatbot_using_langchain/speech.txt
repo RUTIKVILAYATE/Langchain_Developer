@@ -1,0 +1,7 @@
+Abstract- Analysis of electroencephalography (EEG) data is pivotal for understanding brain function and diagnosing 
+neurological disorders. However, conventional approaches often struggle with the intricate nonlinear and dynamic 
+characteristics of EEG signals. This study introduces Liquid Time Constant (LTC) networks, a novel deep learning 
+architecture tailored for time-series analysis in EEG data. LTC networks offer several advantages over traditional methods. 
+Their unique liquid time constant mechanism enables adaptive capture of temporal dependencies, resulting in enhanced 
+performance for tasks such as signal classification and prediction. Furthermore, their inherent stability and bounded 
+behavior make them particularly suitable for real-time applications.

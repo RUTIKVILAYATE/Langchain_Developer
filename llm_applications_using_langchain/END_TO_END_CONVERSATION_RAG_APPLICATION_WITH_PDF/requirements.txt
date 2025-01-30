@@ -1,0 +1,14 @@
+langchain
+streamlit 
+ipykernel 
+langchain_community
+pypdf
+bs4
+pymupdf
+wikipedia 
+langchain-groq
+duckduckgo-search
+
+
+
+langchain_huggingface

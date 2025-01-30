@@ -1,0 +1,25 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+bs4 
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+
+
+# Build Genai using LCEL
+langchain
+langchain_groq
+langchain_core
+fast-api
+uvicorn
+langserve
+sse_starlette
+
+
+
